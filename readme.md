@@ -7,7 +7,7 @@ Please make a simple single page application to display blog posts.
 You should fetch data for the blog posts from the [Json Placeholder API](https://jsonplaceholder.typicode.com/), which
 provides posts, comments etc. 
 
-Display each blog post appropriately in a list which the option to click through to a single blog post which should
+Display each blog post appropriately in a list with the option to click through to a single blog post which should
 be displayed with its comments (if it has any).
 
 It must be possible to return to the listing page from a single blog post.
